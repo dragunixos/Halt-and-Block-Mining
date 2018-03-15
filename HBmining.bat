@@ -73,6 +73,6 @@ echo 0.0.0.0 185.14.28.10 >> %hostspath%
 echo 0.0.0.0 rove.cl >> %hostspath%
 echo 0.0.0.0 coinimp.com >> %hostspath%
 
-echo ipconfig /flushdns
+ipconfig /flushdns
 
 exit

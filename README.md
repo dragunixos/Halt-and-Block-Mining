@@ -1,6 +1,6 @@
 # Halt-and-Block-Mining
 Block Bitcoin Mining in browser (webs and extensions)
 
-*Simplemente descargar y ejecutar el script .bat en Windows desde CMD con permisos de Administrador. 
+_Descargar y ejecutar el script *.bat_ en CMD con permisos de **Administrador**. 
 
-*Automáticamente añadirá al fichero "hosts" los dominios conocidos que se utilizan para minar  criptomonedas sin permiso desde webs como The Pirate Bay o extensiones de Chrome como SafeBrowse para evitar que estas utilicen nuestro PC, nuestro Hardware y nuestra electricidad sin permiso para lucrarse.
+_Automáticamente añadirá al fichero "hosts" los dominios conocidos_ que se utilizan para minar criptomonedas y así evitar que utilicen nuestro PC, nuestro Hardware y nuestra electricidad para lucrarse.
